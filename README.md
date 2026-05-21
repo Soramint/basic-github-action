@@ -112,4 +112,6 @@ docker run --rm -p 8000:8000 testapi
    - name: Try to print secret directly
      run: echo ${{ secrets.MY_SECRET_MESSAGE }}
    ```
+
+   Hello
  
